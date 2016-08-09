@@ -1,5 +1,5 @@
 {
-    "name": "mabuzagu/pdo-dblib-module",
+    "name": "kokspflanze/pdo-dblib-module",
     "description": "MSSQL dbib module for zf2",
     "type": "library",
     "keywords": [
